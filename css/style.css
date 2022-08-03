@@ -1,0 +1,13 @@
+.sony {
+    width: 200px;
+    height: 60px;
+}
+
+.flex-end {
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+ul {
+    list-style: none;
+}
