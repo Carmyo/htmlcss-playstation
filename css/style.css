@@ -11,3 +11,13 @@
 ul {
     list-style: none;
 }
+
+.jumbo {
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center;
+    height: 650px;
+}
+
+.acquista {
+    background-color: hsl(15deg 80% 45%);
+}
