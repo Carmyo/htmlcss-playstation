@@ -14,6 +14,7 @@ ul {
 
 .jumbo {
     background-image: url(../img/jumbo-bg.png);
+    /*aggiungi size*/
     background-position: center;
     height: 650px;
 }
@@ -38,5 +39,4 @@ h5 {
 
 .cdc-logo-game {
     width: 200px;
-
 }
