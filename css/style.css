@@ -30,4 +30,13 @@ h5 {
     background-color: hsl(222deg 79% 54%);
 }
 
-.console {}
+.jumbo2 {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    height: 650px;
+}
+
+.cdc-logo-game {
+    width: 200px;
+
+}
