@@ -52,3 +52,11 @@ h5 {
 #button-plus {
     color: hsl(222deg 78% 55%);
 }
+
+#now {
+    background-color: hsl(230deg 46% 16%);
+}
+
+#button-now {
+    background-color: white;
+}
