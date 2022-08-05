@@ -44,3 +44,11 @@ h5 {
 #new-realease {
     background-color: hsl(0deg 0% 12%);
 }
+
+#plus {
+    background-color: hsl(20deg 2% 74%);
+}
+
+#button-plus {
+    color: hsl(222deg 78% 55%);
+}
