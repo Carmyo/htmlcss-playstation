@@ -60,3 +60,7 @@ h5 {
 #button-now {
     background-color: white;
 }
+
+footer {
+    background-color: hsl(214deg 100% 31%);
+}
