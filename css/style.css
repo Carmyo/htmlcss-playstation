@@ -14,9 +14,9 @@ ul {
 
 .jumbo {
     background-image: url(../img/jumbo-bg.png);
-    /*aggiungi size*/
-    background-position: center;
-    height: 650px;
+    background-size: cover;
+    background-position: top;
+
 }
 
 .acquista {
@@ -40,8 +40,8 @@ h5 {
 
 .jumbo2 {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
-    background-position: center;
-    height: 650px;
+    background-size: cover;
+    background-position: top;
 }
 
 .cdc-logo-game {
