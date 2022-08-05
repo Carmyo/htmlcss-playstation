@@ -20,7 +20,6 @@ ul {
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: top;
-
 }
 
 .acquista {
@@ -74,4 +73,8 @@ h5 {
 
 footer {
     background-color: hsl(214deg 100% 31%);
+}
+
+.footer-logo {
+    max-width: 150px;
 }
