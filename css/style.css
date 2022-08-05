@@ -31,6 +31,11 @@ h5 {
     background-color: hsl(222deg 79% 54%);
 }
 
+.accessories {
+    height: 200px;
+    opacity: 70%;
+}
+
 .jumbo2 {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-position: center;
